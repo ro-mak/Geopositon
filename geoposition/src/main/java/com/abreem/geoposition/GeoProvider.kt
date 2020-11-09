@@ -20,7 +20,7 @@ class GeoProvider {
 
     companion object {
         const val ACCESS_TOKEN =
-            "pk.eyJ1IjoiaW5saW5lYnJvdGhlciIsImEiOiJjazNxN3FhbGowMTRqM21yM3YxNDFzMTd4In0.lyV4Cxc76Jb07buMzP-Sag"
+            ""
     }
 
     var activity: AppCompatActivity? = null
